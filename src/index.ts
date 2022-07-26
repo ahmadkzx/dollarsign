@@ -1,5 +1,6 @@
 // number
 export { default as $separateNumber } from './number/separateNumber'
+export { default as $convertToEnDigit } from './number/convertToEnDigit'
 
 // string
 export { default as $camelCaseToSnakeCase } from './string/camelCaseToSnakeCase'
